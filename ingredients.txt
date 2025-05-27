@@ -2,3 +2,5 @@ avocado
 tomato
 lime
 garlic
+salt 
+pepper
