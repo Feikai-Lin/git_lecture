@@ -1,5 +1,4 @@
 avocado
 tomato
 lime
-tomato
-cilantro
+garlic
